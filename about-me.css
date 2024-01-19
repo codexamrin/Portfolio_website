@@ -1,0 +1,202 @@
+/*------about----*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+    background-image: url(bg1.avif);
+    background-size: cover;
+    background-position:fixed;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:#fff;
+    background-color: #080808;
+}
+.container{
+    padding: 10px 0%;
+}
+nav{
+    background-color:white;
+    color: #080808;
+    padding-left: 5%;
+    padding-right: 50%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+
+}
+nav ul li {
+    margin-left: 100px;
+    margin-right: 0px;
+}
+nav ul li a{
+      color :black;
+      font-size:20px;
+}
+nav ul li a:hover{
+    color: #ff004f;
+    font-size:30px;
+}
+.logo
+{ 
+    width: 50px;
+    height: 50px;
+}
+.about{
+    color: blue;
+    background: linear-gradient(pink, lightblue,lightgreen);
+    text-align: center;
+    font-size: 300%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 5%;
+}
+.front{
+color:cornsilk;
+font-size: 80px;
+margin-left: 3%;
+margin-top: 1%;
+margin-bottom: 5%;
+}
+.about-me{
+font-size: 100%;
+color: aqua;
+margin-right: 7%;
+margin-left: 10%;
+}
+.about-me-1 { 
+display: flex;
+margin:none;
+padding: none;
+}
+
+.clg2 {
+margin-top: 10%;
+margin-left: 8%;
+height: 70%;
+width: 90%;
+border-radius: 10%;
+z-index: 1; 
+}
+.main{
+font-size: 40px;
+text-align: center;
+margin-left: 1%;
+margin-top: 2%;
+color: #ff004f;
+
+}
+.tab-contents{
+background: linear-gradient(red,RoyalBlue);
+
+}
+.tab-contents1{
+font-size: 60px;
+color: #fff;
+text-align: center;
+padding-top: 0%;
+margin-top: 0%;
+}
+
+.table{ 
+background-color:white;
+color:#080808;
+font-size: 20px;
+text-align: center;
+margin-left: 33%;
+margin-right: 5%;
+padding-top: 0%;
+margin-bottom: 5%;
+}
+th, td {
+padding: 5px;
+padding-left: 50px; 
+text-align: left;
+
+}
+
+@media only screen and (max-width: 600px) {
+    * {
+        font-size: 10px;
+    }
+
+    body {
+        height: 50vh;
+        width: 50vh;
+        position:fixed;
+        background-size:cover;
+    }
+    .container {
+    padding: 10px 0%;
+  }
+
+  nav {
+    width: 100%; /* Remove display: flex; here */
+  }
+
+  nav ul li {
+    margin-left: 30px;
+    margin-right: 10px;
+  }
+
+  nav ul li a {
+    font-size: 10px;
+  }
+
+  nav ul li a:hover {
+    font-size: 10px;
+  }
+
+  .logo {
+    width: 50px;
+    height: 50px;
+  }
+
+    /*------about----*/
+  .about {
+    font-size: 50px;
+      margin-top:20%;
+  }
+
+  .front {
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .about-me {
+    font-size: 60%;
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+
+  .tab-contents1 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .table {
+    margin-left: 20%;
+    margin-right: 5%;
+  }
+
+  th,
+  td {
+    font-size: 16px;
+    padding: 2px;
+    margin: 0;
+  }
+}
