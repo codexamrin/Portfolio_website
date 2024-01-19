@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+    background-image: url(bg1.avif);
+    background-size: cover;
+    background-position:fixed;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:#fff;
+    background-color: #080808;
+}
+.container{
+    padding: 10px 0%;
+}
+nav{
+    background-color:white;
+    color: #080808;
+    padding-left: 5%;
+    padding-right: 50%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+
+}
+nav ul li {
+    margin-left: 100px;
+    margin-right: 0px;
+}
+nav ul li a{
+      color :black;
+      font-size:20px;
+}
+nav ul li a:hover{
+    color: #ff004f;
+    font-size:30px;
+}
+.logo
+{ 
+    width: 50px;
+    height: 50px;
+}
+.pro {
+    margin-top: 5%;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .myproject {
+    text-align: center;
+  }
+  
+  .h1 {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-size: 50px;
+    margin-left:0%;
+    margin-right: 0%;
+    background: linear-gradient(pink, lightblue, lightgreen);
+    color:blue;
+  }
+  .project-container {
+    justify-content: space-between;
+  }
+  
+  .project {
+    margin-bottom: 1%;
+    border-left: 9%;
+    max-width: 100%;
+    background-color: #ccc;
+    color: #080808;
+  }
+  .head{
+    font-size: 20px;
+    margin-left: 2%;
+}
+    .button-link {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-left: 8%;
+        margin-top: 0%;
+        font-size: 30px;
+        text-align: center;
+        text-decoration: none;
+        background-color: DodgerBlue;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .button-link:hover {
+        background-color: RoyalBlue;
+        border: 3px solid wheat;
+        font-size: 40px;
+    }
+    .project1 {
+        margin-bottom: 1%;
+        max-width: 100%;
+        background-color: #ccc;
+        color: #080808;
+    }
+    .head1{
+        font-size: 20px;
+        margin-left: 2%;
+    }
+    .button-link1 {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-left: 8%;
+        margin-top: 0%;
+        font-size: 30px;
+        text-align: center;
+        text-decoration: none;
+        background-color: DodgerBlue;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .button-link1:hover {
+        background-color: RoyalBlue;
+        border: 3px solid wheat;
+        font-size: 40px;
+    }
+
+@media only screen and (max-width: 767px) {
+  * {
+        font-size: 13px;
+      
+    }
+    body {
+        height: 100vh;
+        width: 100%;
+       position:fixed;
+    }
+    .container {
+    padding: 10px 0%;
+  }
+
+  nav {
+    width: 100%; /* Remove display: flex; here */
+  }
+
+  nav ul li {
+    margin-left: 30px;
+    margin-right: 10px;
+  }
+
+  nav ul li a {
+    font-size: 10px;
+  }
+
+  nav ul li a:hover {
+    font-size: 10px;
+  }
+
+  .logo {
+    width: 50px;
+    height: 50px;
+  }
+  /*Project*/
+  .pro {
+    padding: 5% 5%;
+  }
+
+  .myproject {
+    text-align: center;
+  }
+
+  .h1{
+      font-size:150%;
+  }
+  .head,
+  .head1 {
+    font-size: 20px;
+  }
+
+  .project,
+  .project1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .button-link,
+  .button-link1 {
+    margin-left: 0;
+  }
+
+  p {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
