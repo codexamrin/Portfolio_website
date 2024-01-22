@@ -64,6 +64,7 @@ nav ul li a:hover{
 .fa:hover{
     cursor:pointer;
     color:blue;
+    font-size:50px;
 }
 /*Home*/
 .clgp-image {
