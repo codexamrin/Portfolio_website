@@ -61,9 +61,9 @@ nav ul li a:hover{
 /*Home*/
 .clgp-image {
     position: absolute;
-    top: 15%;
+    top: 20%;
     right: 20%;
-    left:50%;
+    left:60%;
     height: 300px;
     animation: fadeIn 5s ease-out 2.5s;
     width: 300px; 
