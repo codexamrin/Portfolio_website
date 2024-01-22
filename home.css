@@ -61,11 +61,6 @@ nav ul li a:hover{
 .fa{
     margin-left:20%;
 }
-.fa:hover{
-    cursor:pointer;
-    color:blue;
-    font-size:50px;
-}
 /*Home*/
 .clgp-image {
     position: absolute;
