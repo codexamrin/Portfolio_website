@@ -217,7 +217,7 @@ nav ul li a:hover{
     }
 
     .fa {
-        font-size: 20px; /* Adjust the font size for icons on smaller screens */
-        margin-left: 10%; /* Adjust the margin for icons on smaller screens */
+        font-size: 10px; /* Adjust the font size for icons on smaller screens */
+        margin-left: 5%; /* Adjust the margin for icons on smaller screens */
     }
 }
