@@ -194,21 +194,20 @@ nav ul li a:hover{
     padding: 10px 0%;
   }
 
-  nav {
-    width: 100%; 
+ nav {
+    padding-right: 5%;
   }
 
   nav ul li {
-        margin-left: 10px; /* Adjust the margin for smaller screens */
-        margin-right: 5px;
-    }
+    margin-left: 10px; /* Adjusted margin for even smaller screens */
+  }
 
-    nav ul li a {
-        font-size: 12px; /* Adjust the font size for smaller screens */
-    }
+  nav ul li a {
+    font-size: 10px; /* Adjusted font size for even smaller screens */
+  }
 
   nav ul li a:hover {
-    font-size: 10px;
+    font-size: 14px; /* Adjusted font size for even smaller screens */
   }
 
   .logo {
