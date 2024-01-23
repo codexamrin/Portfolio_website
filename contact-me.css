@@ -128,7 +128,7 @@ nav ul li a:hover{
   border :3px solid blue ;
 }
 .heading{
-  width: 35%; 
+  width: 50%; 
   text-align: center;
   margin-top: 10px; 
 }
@@ -136,18 +136,20 @@ h3 {
   color: blue;
   margin-top: 5%;
   font-size: 50px;
+  text-align:center;
 }
 .heading p{
   padding-top: 5%;
   padding-right: 0px;
   padding-left: 3px;
   font-size: 30px;
+  text-align:center;
 }
 .heading a{
   padding-top: 5%;
   padding-left:0%;
   font-size: 30px;
-  
+  text-align:center;
 }
 @media only screen and (max-width: 767px) {
 * {
@@ -213,11 +215,12 @@ nav ul li a:hover {
 
 .heading h3 {
   font-size: 20px;
-    margin-left:1%;
+  
 }
 
 .heading p {
   font-size: 10px;
+  
 }
 
 .heading a {
