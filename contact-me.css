@@ -193,9 +193,9 @@ nav ul li a:hover {
 }
 
 .contact-form {
-  padding-left: 2%;
-  padding-right: 5%;
-  padding-top: 5%;
+  padding-left: 0%;
+  padding-right: 10%;
+  padding-top: 0%;
   padding-bottom: 5%;
 }
 
@@ -209,11 +209,11 @@ nav ul li a:hover {
 }
 
 .contact-form button {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .heading h3 {
-  font-size: 15px;
+  font-size: 20px;
     margin-left:1%;
 }
 
@@ -225,6 +225,6 @@ nav ul li a:hover {
   font-size: 20px;
 }
   #contact{
-    font-size:20px;
+    font-size:10px;
   }
 }
