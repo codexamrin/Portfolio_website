@@ -152,7 +152,7 @@ nav ul li a:hover{
 #con{
   color:white;
   margin-left:10%;
-  font-size:30px;
+  font-size:20px;
  justify-content: space-between;
 }
 @media only screen and (max-width: 767px) {
