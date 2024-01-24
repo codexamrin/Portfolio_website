@@ -58,6 +58,11 @@ nav ul li a:hover{
     color: #ff004f;
     font-size:30px;
 }
+#navcontact{
+    color:black;
+    font-size:48px;
+    margin-left:20%
+}
 /*Home*/
 .clgp-image {
     position: absolute;
@@ -199,24 +204,24 @@ nav ul li a:hover{
   }
 
   nav ul li {
-    margin-left: 5px; /* Adjusted margin for even smaller screens */
+    margin-left: 5px; 
   }
 
   nav ul li a {
-    font-size: 10px; /* Adjusted font size for even smaller screens */
+    font-size: 10px; 
   }
 
   nav ul li a:hover {
-    font-size: 14px; /* Adjusted font size for even smaller screens */
+    font-size: 14px; 
   }
 
   .logo {
-        width: 30px; /* Adjust the logo size for smaller screens */
+        width: 30px; 
         height: 30px;
     }
 
     #navcontact {
-        font-size: 5px; /* Adjust the font size for icons on smaller screens */
-        margin-left: 0%; /* Adjust the margin for icons on smaller screens */
+        font-size: 5px; 
+        margin-left: 0%; 
     }
 }
