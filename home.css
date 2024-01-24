@@ -190,6 +190,9 @@ nav ul li a:hover{
     padding-top: 10px;
     font-size: 80%;
   }
+    .fa-icon{
+        margin-left:5%;
+    }
 
   .btn {
     font-size: 8px;
@@ -216,6 +219,7 @@ nav ul li a:hover {
 }
 #navcontact{
   font-size:20px;
+    margin-left:5%;
 }
 .logo {
   width: 50px;
