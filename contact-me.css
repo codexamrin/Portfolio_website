@@ -148,10 +148,12 @@ nav ul li a:hover{
   padding-top: 5%;
   font-size: 30px;
   text-align:center;
+  display:flex;
 }
 #con{
   color:white;
   font-size:30px;
+  display:flex;
 }
 @media only screen and (max-width: 767px) {
 * {
