@@ -61,7 +61,7 @@ nav ul li a:hover{
 }
 /*Contact*/
 .h2{
-  padding-top: 0%;
+  padding-top: 3%;
   font-size: 50px;
   text-align: center;
   color: blue;
@@ -129,7 +129,7 @@ nav ul li a:hover{
 .heading{
   width: 100%; 
   text-align: center;
-  margin-top: 5px; 
+  margin-top: 2px; 
 }
 .heading h3 {
   color: blue;
