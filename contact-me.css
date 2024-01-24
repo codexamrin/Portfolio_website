@@ -174,8 +174,8 @@ nav {
 }
 
 nav ul li {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 nav ul li a {
@@ -185,21 +185,23 @@ nav ul li a {
 nav ul li a:hover {
   font-size: 10px;
 }
-
+#navcontact{
+  font-size:20px;
+}
 .logo {
   width: 50px;
   height: 50px;
 }
    /*Contact*/
 .h2 {
-  font-size: 50px;
-    margin-top:20%;
-    margin-bottom:10%;
+  font-size: 20px;
+    margin-top:4%;
+    margin-bottom:2%;
 }
 
 .contact-form {
-  padding-left: 0%;
-  padding-right: 20%;
+  padding-left: 5%;
+  padding-right: 5%;
   padding-top: 0%;
   padding-bottom: 5%;
 }
