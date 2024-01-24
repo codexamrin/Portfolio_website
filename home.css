@@ -71,7 +71,7 @@ nav ul li a:hover{
 /*Home*/
 .clgp-image {
     position: absolute;
-    top: 20%;
+    top: 10%;
     right: 20%;
     left:50%;
     height: 300px;
@@ -106,8 +106,8 @@ nav ul li a:hover{
    
 }
 .hyd h4{
-    margin-left:2%;
-    margin-top:10%;
+    margin-top:12%;
+    margin-bottom:5%;
     animation: fadeIn 1s ease-out 1.5s;
 }
     .header-text{
@@ -116,7 +116,7 @@ nav ul li a:hover{
     }
    .header-text h5 {
     padding-top: 10%;
-    font-size: 70%;
+    font-size: 90%;
     animation: fadeIn 1s ease-out 0.5s;
 }
     .header-text span {
@@ -127,7 +127,7 @@ nav ul li a:hover{
         color: cornflowerblue;
     }
 .fa-icon {
-    margin-left:5%;
+    margin-left:10%;
     color: white;
 }
 .btn {
@@ -184,9 +184,7 @@ nav ul li a:hover{
 .clgp-image{
     max-width:40%;
     height:auto;
-    margin-left:5%;
-   
-  
+    margin-left:5%;  
 }
   .fa {
     padding-top: 10px;
