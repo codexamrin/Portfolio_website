@@ -73,7 +73,7 @@ nav ul li a:hover{
     position: absolute;
     top: 20%;
     right: 20%;
-    left:70%;
+    left:50%;
     height: 300px;
     animation: fadeIn 5s ease-out 2.5s;
     width: 300px; 
@@ -106,8 +106,8 @@ nav ul li a:hover{
    
 }
 .hyd h4{
-    margin-left:5%;
-    margin-top:5%;
+    margin-left:2%;
+    margin-top:10%;
     animation: fadeIn 1s ease-out 1.5s;
 }
     .header-text{
@@ -116,7 +116,7 @@ nav ul li a:hover{
     }
    .header-text h5 {
     padding-top: 10%;
-    font-size: 100%;
+    font-size: 70%;
     animation: fadeIn 1s ease-out 0.5s;
 }
     .header-text span {
@@ -127,6 +127,7 @@ nav ul li a:hover{
         color: cornflowerblue;
     }
 .fa-icon {
+    margin-left:5%;
     color: white;
 }
 .btn {
@@ -150,7 +151,7 @@ nav ul li a:hover{
   }
   button {
     margin-left: 20%;
-    margin-top: 3%;
+    margin-top: 5%;
     width: 15%;
     height: 30%;
   }
