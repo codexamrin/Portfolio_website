@@ -71,7 +71,7 @@ nav ul li a:hover{
 /*Home*/
 .clgp-image {
     position: absolute;
-    top: 10%;
+    top: 15%;
     right: 20%;
     left:50%;
     height: 300px;
@@ -107,7 +107,8 @@ nav ul li a:hover{
 }
 .hyd h4{
     margin-top:12%;
-    margin-bottom:5%;
+    margin-bottom:2%;
+    margin-left:2%;
     animation: fadeIn 1s ease-out 1.5s;
 }
     .header-text{
