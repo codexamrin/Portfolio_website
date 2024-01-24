@@ -125,7 +125,7 @@ nav ul li a:hover{
         color: cornflowerblue;
     }
 .fa-icon {
-    margin-right: 100px; 
+    margin-right: 50%; 
     color: white;
 }
 .btn {
@@ -212,8 +212,8 @@ nav ul li a:hover {
   font-size: 10px;
 }
 #navcontact {
-        font-size: 30px;
-        margin-left: 5%;
+        font-size: 20px;
+        margin-left: 10%;
         margin-right:0%;
     }
 .logo {
