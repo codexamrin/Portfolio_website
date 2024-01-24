@@ -105,7 +105,7 @@ nav ul li a:hover{
     padding-bottom: 0%;
    
 }
-.hyd h6{
+.hyd h4{
     animation: fadeIn 1s ease-out 1.5s;
 }
     .header-text{
@@ -166,7 +166,7 @@ nav ul li a:hover{
     }
 
     #header {
-    padding-bottom: 30%;
+    padding-bottom: 40%;
   }
 
   .header-text h5 {
@@ -176,7 +176,7 @@ nav ul li a:hover{
 .header-text span{
     font-size:80%;
 }
-  .hyd h6 {
+  .hyd h4 {
     font-size: 10px;
   }
 .clgp-image{
