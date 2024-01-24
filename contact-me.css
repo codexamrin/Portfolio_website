@@ -145,14 +145,13 @@ nav ul li a:hover{
   text-align:center;
 }
 .heading a{
-  padding-top: 5%;
-  margin-left:15%;
+  margin-left:10%;
   font-size: 30px;
   justify-content: space-between;
 }
 #con{
-  color:white;
-  margin-left:15%;
+  color:blue;
+  margin-left:10%;
   font-size:30px;
  justify-content: space-between;
 }
