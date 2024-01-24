@@ -199,7 +199,7 @@ nav ul li a:hover{
   }
 
   nav ul li {
-    margin-left: 10px; /* Adjusted margin for even smaller screens */
+    margin-left: 5px; /* Adjusted margin for even smaller screens */
   }
 
   nav ul li a {
@@ -217,6 +217,6 @@ nav ul li a:hover{
 
     #navcontact {
         font-size: 5px; /* Adjust the font size for icons on smaller screens */
-        margin-left: 2%; /* Adjust the margin for icons on smaller screens */
+        margin-left: 0%; /* Adjust the margin for icons on smaller screens */
     }
 }
