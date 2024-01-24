@@ -199,11 +199,11 @@ nav ul li a:hover{
 }
 
  nav {
-        padding-right: 20%;
+        padding-right: 30%;
     }
 
     nav ul li {
-        margin-left: 10px; 
+        margin-left: 20px; 
     }
     nav ul li a{
         font-size:10px;
@@ -213,7 +213,7 @@ nav ul li a:hover {
 }
 #navcontact {
         font-size: 30px;
-        margin-left: 2%;
+        margin-left: 5%;
     }
 .logo {
   width: 50px;
