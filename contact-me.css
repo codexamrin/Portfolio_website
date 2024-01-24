@@ -175,8 +175,8 @@ nav {
 }
 
 nav ul li {
-  margin-left: 30px;
-  margin-right: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 nav ul li a {
@@ -219,12 +219,12 @@ nav ul li a:hover {
 }
 
 .heading h3 {
-  font-size: 20px;
+  font-size: 40px;
   
 }
 
 .heading p {
-  font-size: 10px;
+  font-size: 20px;
   
 }
 
