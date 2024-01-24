@@ -65,7 +65,7 @@ nav ul li a:hover{
 }
 #navcontact{
    color:black;
-  font-size:48px;
+  font-size:30px;
   margin-left:20%
 }
 /*Home*/
@@ -214,6 +214,7 @@ nav ul li a:hover {
 #navcontact {
         font-size: 30px;
         margin-left: 5%;
+        margin-right:0%;
     }
 .logo {
   width: 50px;
