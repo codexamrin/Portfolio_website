@@ -106,6 +106,8 @@ nav ul li a:hover{
    
 }
 .hyd h4{
+    margin-left:5%;
+    margin-top:5%;
     animation: fadeIn 1s ease-out 1.5s;
 }
     .header-text{
