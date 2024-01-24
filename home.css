@@ -196,11 +196,14 @@ nav ul li a:hover{
   }
 
   nav {
-        padding-right: 10%;
+        padding-right: 30%;
     }
 
     nav ul li {
-        margin-left: 20px; /* Adjust as needed for smaller screens */
+        margin-left: 20px; 
+    }
+    nav ul li a{
+        font-size:20px;
     }
     
     #navcontact {
