@@ -194,8 +194,11 @@ nav ul li a:hover{
   .btn {
     font-size: 8px;
   }
+    .container {
+  padding: 10px 0%;
+}
 
-  nav {
+ nav {
         padding-right: 30%;
     }
 
@@ -205,9 +208,15 @@ nav ul li a:hover{
     nav ul li a{
         font-size:20px;
     }
-    
-    #navcontact {
+nav ul li a:hover {
+  font-size: 10px;
+}
+#navcontact {
         font-size: 36px;
         margin-left: 10%;
     }
+.logo {
+  width: 50px;
+  height: 50px;
+}
 }
