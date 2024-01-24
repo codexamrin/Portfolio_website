@@ -147,14 +147,16 @@ nav ul li a:hover{
 .heading a{
   padding-top: 5%;
   margin-left:15%;
-  font-size: 10px;
+  font-size: 20px;
   display:flex;
+  position:fixed;
 }
 #con{
   color:white;
   margin-left:15%;
-  font-size:10px;
+  font-size:20px;
   display:flex;
+  position:fixed;
 }
 @media only screen and (max-width: 767px) {
 * {
