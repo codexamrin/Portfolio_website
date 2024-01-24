@@ -203,17 +203,17 @@ nav ul li a:hover{
     }
 
     nav ul li {
-        margin-left: 20px; 
+        margin-left: 5px; 
     }
     nav ul li a{
-        font-size:20px;
+        font-size:10px;
     }
 nav ul li a:hover {
   font-size: 10px;
 }
 #navcontact {
         font-size: 36px;
-        margin-left: 10%;
+        margin-left: 2%;
     }
 .logo {
   width: 50px;
