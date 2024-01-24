@@ -58,6 +58,11 @@ nav ul li a:hover{
     color: #ff004f;
     font-size:30px;
 }
+.logo
+{ 
+    width: 50px;
+    height: 50px;
+}
 #navcontact{
     color:black;
     font-size:48px;
@@ -102,11 +107,6 @@ nav ul li a:hover{
 }
 .hyd h6{
     animation: fadeIn 1s ease-out 1.5s;
-}
-.logo
-{ 
-    width: 50px;
-    height: 50px;
 }
     .header-text{
         font-size:60px;
@@ -154,7 +154,7 @@ nav ul li a:hover{
     height: 30%;
   }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     * {
         font-size: 10px;
     }
@@ -195,33 +195,16 @@ nav ul li a:hover{
     font-size: 8px;
   }
 
-  .container {
-    padding: 10px 0%;
-  }
-
- nav {
-    padding-right: 5%;
-  }
-
-  nav ul li {
-    margin-left: 5px; 
-  }
-
-  nav ul li a {
-    font-size: 10px; 
-  }
-
-  nav ul li a:hover {
-    font-size: 14px; 
-  }
-
-  .logo {
-        width: 30px; 
-        height: 30px;
+  nav {
+        padding-right: 10%;
     }
 
+    nav ul li {
+        margin-left: 20px; /* Adjust as needed for smaller screens */
+    }
+    
     #navcontact {
-        font-size: 5px; 
-        margin-left: 0%; 
+        font-size: 36px;
+        margin-left: 10%;
     }
 }
