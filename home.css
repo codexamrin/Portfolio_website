@@ -186,7 +186,7 @@ nav ul li a:hover{
 .clgp-image{
     max-width:40%;
     height:auto;
-    margin-left:20%;
+    margin-left:10%;
     margin-bottom:50%;
 }
   .fa {
@@ -195,9 +195,12 @@ nav ul li a:hover{
   }
     .fa-icon{
         margin-left:10%;
+        margin-bottom:2%;
+        margin-top:2%;
     }
 
   .btn {
+      margin-bottom:5%;
     font-size: 8px;
   }
    .container {
