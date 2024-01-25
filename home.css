@@ -107,7 +107,7 @@ nav ul li a:hover{
    
 }
 .hyd h4{
-    margin-top:10%;
+    margin-top:5%;
     margin-bottom:4%;
     animation: fadeIn 1s ease-out 1.5s;
 }
@@ -116,7 +116,7 @@ nav ul li a:hover{
         
     }
    .header-text h5 {
-    padding-top: 20%;
+    padding-top: 18%;
     font-size: 100%;
     animation: fadeIn 1s ease-out 0.5s;
 }
