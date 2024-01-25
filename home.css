@@ -181,7 +181,7 @@ nav ul li a:hover{
 }
   .hyd h4 {
     font-size: 8px;
-      margin-bottom:5%;
+      margin-bottom:8%;
       margin-left:0%;
       margin-right:0%;
   }
@@ -197,12 +197,12 @@ nav ul li a:hover{
   }
     .fa-icon{
         margin-left:10%;
-        padding-bottom:2%;
-        padding-top:2%;
+        margin-bottom:2%;
+        margin-top:2%;
     }
 
   .btn {
-      padding-bottom:5%;
+      margin-bottom:5%;
     font-size: 8px;
   }
    .container {
