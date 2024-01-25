@@ -73,7 +73,7 @@ nav ul li a:hover{
     position: absolute;
     top: 20%;
     right: 30%;
-    left:50%;
+    left:40%;
     height: 300px;
     animation: fadeIn 5s ease-out 2.5s;
     width: 400px; 
@@ -107,7 +107,7 @@ nav ul li a:hover{
    
 }
 .hyd h4{
-    margin-top:15%;
+    margin-top:18%;
     margin-bottom:4%;
     animation: fadeIn 1s ease-out 1.5s;
 }
