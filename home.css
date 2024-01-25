@@ -117,7 +117,7 @@ nav ul li a:hover{
     }
    .header-text h5 {
     padding-top: 10%;
-    font-size: 80%;
+    font-size: 100%;
     animation: fadeIn 1s ease-out 0.5s;
 }
     .header-text span {
