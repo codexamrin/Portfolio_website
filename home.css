@@ -72,11 +72,11 @@ nav ul li a:hover{
 .clgp-image {
     position: absolute;
     top: 20%;
-    right: 20%;
+    right: 30%;
     left:50%;
     height: 300px;
     animation: fadeIn 5s ease-out 2.5s;
-    width: 300px; 
+    width: 400px; 
     border-radius: 50%;
     z-index: 1; 
    
@@ -107,7 +107,7 @@ nav ul li a:hover{
    
 }
 .hyd h4{
-    margin-top:12%;
+    margin-top:15%;
     margin-bottom:4%;
     animation: fadeIn 1s ease-out 1.5s;
 }
